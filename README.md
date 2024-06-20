@@ -12,13 +12,13 @@
 
 ## 💡 Introduction to Bash Scripting
 
-This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
+This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks so that you can focus on more productive and fun things.
 
-The guide is suitable for anyone working as a developer, system administrator, or a DevOps engineer and wants to learn the basics of Bash scripting.
+The guide is suitable for anyone working as a developer, system administrator, or DevOps engineer who wants to learn the basics of Bash scripting.
 
 ## 🚀 Download
 
-To download a copy of the ebook use one of the following links:
+To download a copy of the ebook, use one of the following links:
 
 * [Dark mode](https://github.com/bobbyiliev/introduction-to-bash-scripting/raw/main/ebook/en/export/introduction-to-bash-scripting-dark.pdf)
 
@@ -28,7 +28,7 @@ To download a copy of the ebook use one of the following links:
 
 ## 📘 Chapters
 
-The first 13 chapters would be purely focused on getting some solid Bash scripting foundations then the rest of the chapters would give you some real life examples and scripts.
+The first 13 chapters would be purely focused on getting some solid Bash scripting foundations then the rest of the chapters would give you some real-life examples and scripts.
 
 * [**About the book**](ebook/en/content/000-about-the-author.md)
 * [**Introduction to Bash scripting**](ebook/en/content/001-introduction-to-bash.md)
@@ -76,13 +76,13 @@ Founded in 2012 with offices in New York and Cambridge, MA, DigitalOcean offers 
 
 For more information, please visit [https://www.digitalocean.com](https://www.digitalocean.com) or follow [@digitalocean](https://twitter.com/digitalocean) on Twitter.
 
-If you are new to DigitalOcean, you can get a free $100 credit and spin up your own servers via this referral link here:
+If you are new to DigitalOcean, you can get a free $100 credit and spin up your own servers via this referral link:
 
 [Free $100 Credit For DigitalOcean](https://m.do.co/c/2a9bba940f39)
 
 ### 👩‍💻 DevDojo
 
-The DevDojo is a resource to learn all things web development and web design. Learn on your lunch break or wake up and enjoy a cup of coffee with us to learn something new.
+The DevDojo is a resource to learn all things web development and web design. Learn on your lunch break or wake up and enjoy coffee with us to learn something new.
 
 Join this developer community, and we can all learn together, build together, and grow together.
 
@@ -120,7 +120,7 @@ You can follow the interactive training online here:
 
 The training was built with Katacoda. You can find the Katacoda repository [here](https://github.com/bobbyiliev/katacoda).
 
-For more information on how to use Katacoda make sure to follow the steps from this tutorial here:
+For more information on how to use Katacoda, make sure to follow the steps from this tutorial here:
 
 [How to Use Katacoda to Create Highly Engaging Training Tutorials](https://devdojo.com/bobbyiliev/how-to-use-katacoda-to-create-highly-engaging-training-tutorials)
 
@@ -132,7 +132,7 @@ I think it's essential always to keep professional and surround yourself with go
 
 For more information, please visit my blog at [https://bobbyiliev.com](https://bobbyiliev.com), follow me on Twitter [@bobbyiliev_](https://twitter.com/bobbyiliev_) and [YouTube](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw).
 
-In case that you want to support me you can By Me a Coffee here:
+In case you want to support me, you can buy me a Coffee here:
 
 <a href="https://www.buymeacoffee.com/bobbyiliev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
